@@ -1,0 +1,14 @@
+Z:\git\Hello Adventurer\bin\Debug\net10.0\Hello Adventurer.exe
+Z:\git\Hello Adventurer\bin\Debug\net10.0\Hello Adventurer.deps.json
+Z:\git\Hello Adventurer\bin\Debug\net10.0\Hello Adventurer.runtimeconfig.json
+Z:\git\Hello Adventurer\bin\Debug\net10.0\Hello Adventurer.dll
+Z:\git\Hello Adventurer\bin\Debug\net10.0\Hello Adventurer.pdb
+Z:\git\Hello Adventurer\obj\Debug\net10.0\Hello Adventurer.GeneratedMSBuildEditorConfig.editorconfig
+Z:\git\Hello Adventurer\obj\Debug\net10.0\Hello Adventurer.AssemblyInfoInputs.cache
+Z:\git\Hello Adventurer\obj\Debug\net10.0\Hello Adventurer.AssemblyInfo.cs
+Z:\git\Hello Adventurer\obj\Debug\net10.0\Hello Adventurer.csproj.CoreCompileInputs.cache
+Z:\git\Hello Adventurer\obj\Debug\net10.0\Hello Adventurer.dll
+Z:\git\Hello Adventurer\obj\Debug\net10.0\refint\Hello Adventurer.dll
+Z:\git\Hello Adventurer\obj\Debug\net10.0\Hello Adventurer.pdb
+Z:\git\Hello Adventurer\obj\Debug\net10.0\Hello Adventurer.genruntimeconfig.cache
+Z:\git\Hello Adventurer\obj\Debug\net10.0\ref\Hello Adventurer.dll
