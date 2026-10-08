@@ -12,3 +12,4 @@ Z:\git\Hello Adventurer\obj\Debug\net10.0\refint\Hello Adventurer.dll
 Z:\git\Hello Adventurer\obj\Debug\net10.0\Hello Adventurer.pdb
 Z:\git\Hello Adventurer\obj\Debug\net10.0\Hello Adventurer.genruntimeconfig.cache
 Z:\git\Hello Adventurer\obj\Debug\net10.0\ref\Hello Adventurer.dll
+Z:\git\Hello Adventurer\obj\Debug\net10.0\Hello Adventurer.sourcelink.json
